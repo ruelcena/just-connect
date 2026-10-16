@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+*.png
+*.jpg
+screenshot.png
+vnc_server.log
+vnc_server.pid
+*.msi
